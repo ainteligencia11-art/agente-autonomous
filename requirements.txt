@@ -1,0 +1,5 @@
+langchain
+langchain-community
+pydantic
+ollama
+# Adicione outras bibliotecas conforme necessário, como 'python-dotenv' para variáveis de ambiente.
